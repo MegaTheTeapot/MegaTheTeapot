@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mega145
 - 👀 I’m interested in python
-- 🌱 I’m currently learning 
-- 📫 How to reach me see my discord : Mega145/Gmt + 2#3754
+- 🌱 I’m currently learning different tech related concepts
 
 ## 🔗Links
 [![youtube](https://img.icons8.com/ios-glyphs/48/000000/youtube--v1.png)](https://www.youtube.com/channel/UCQpNO0BFV-aey9OWPKyynTw)
